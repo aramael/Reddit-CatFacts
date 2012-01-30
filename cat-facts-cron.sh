@@ -1,0 +1,1 @@
+php5 /home/126975/domains/aramael.com/html/cat-facts/sms.send.php
