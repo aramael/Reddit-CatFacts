@@ -9,7 +9,7 @@ CREATE TABLE IF NOT EXISTS `cat_facts` (
 ) ENGINE=MyISAM  DEFAULT CHARSET=latin1 AUTO_INCREMENT=78 ;
 
 --
--- Dumping data for table `cat_facts`
+-- Dumping data into table `cat_facts`
 --
 
 INSERT INTO `cat_facts` (`id`, `fact`) VALUES
@@ -107,10 +107,3 @@ CREATE TABLE IF NOT EXISTS `users` (
   `active` int(11) NOT NULL DEFAULT '1',
   PRIMARY KEY (`uid`)
 ) ENGINE=MyISAM  DEFAULT CHARSET=latin1 AUTO_INCREMENT=2 ;
-
---
--- Dumping data for table `users`
---
-
-INSERT INTO `users` (`uid`, `fname`, `lname`, `phoneNumber`, `active`) VALUES
-(1, 'John', 'Smith', '5555555555', 1);
