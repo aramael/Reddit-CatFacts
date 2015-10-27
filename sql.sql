@@ -76,7 +76,10 @@ INSERT INTO `cat_facts` (`id`, `fact`) VALUES
 (75, 'A cat''s brain is more similar to a man''s brain than that of a dog.'),
 (76, 'A cat has more bones than a human; humans have 206, and the cat - 230.'),
 (77, 'Cats have 30 vertebrae--5 more than humans have.');
-
+(78, 'There are over 500 million domestic cats in the world.'),
+(79, 'Cats have powerful night vision, allowing them to see at light levels six times lower than what a human needs in order to see..'),
+(80, 'The heaviest domestic cat on record is 21.297 kilograms (46 lb 15.2 oz).'),
+(81, 'AA group of cats is called a clowder, a male cat is called a tom, a female cat is called a molly or queen while young cats are called kittens.'),
 -- --------------------------------------------------------
 
 --
